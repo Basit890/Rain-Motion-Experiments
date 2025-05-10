@@ -25,12 +25,6 @@ Keyboard-controlled interaction
 OpenGL transformations for smooth animation
 
 
-Installation
-Clone the repository:
- git clone https://github.com/yourusername/pygame-opengl-projects.git
-cd pygame-opengl-projects
-
-
 Install dependencies:
  pip install -r requirements.txt
 
